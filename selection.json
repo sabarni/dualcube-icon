@@ -1,0 +1,103 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M404.353 92.523l-399.957 396.747 399.957 396.747 3.197-431.951z",
+					"M826.705 89.323l-399.957 396.747 399.957 396.747 399.957-396.747z",
+					"M404.353 92.523l-12.798 243.17-19.197 175.984 230.38-230.38z",
+					"M375.546 460.485l22.398 137.589 6.402 287.966 204.776-188.775z"
+				],
+				"attrs": [
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					},
+					{
+						"visibility": false
+					}
+				],
+				"width": 1291,
+				"grid": 25,
+				"tags": [
+					"file (1)"
+				]
+			},
+			"attrs": [
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				},
+				{
+					"visibility": false
+				}
+			],
+			"properties": {
+				"order": 1,
+				"id": 0,
+				"prevSize": 32,
+				"name": "dualcube-logo",
+				"code": 58880
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"showGlyphs": true,
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"resetPoint": 58880,
+			"showQuickUse": true,
+			"quickUsageToken": false,
+			"showMetrics": true,
+			"showMetadata": false,
+			"autoHost": true
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"png": false,
+			"sprites": true,
+			"prefix": "icon-"
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"showLiga": false,
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"search": "",
+		"quickUsageToken": {
+			"UntitledProject1": "MjlkMTFhOGNkYzI5MzI5NTI5ZGYwMjNhYzNmNGM2ZGQjMSMxNDE3MjU3OTA1IyMj"
+		}
+	}
+}
